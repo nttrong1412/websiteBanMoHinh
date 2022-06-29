@@ -1,0 +1,1 @@
+<img src="<?php echo BASE_URL?>/public/admin/background.jpg">
